@@ -1,6 +1,7 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
   <h1>Vague for Zellij</h1>
+  <img alt="preview" src="https://github.com/user-attachments/assets/702309f3-d787-47b8-a8b3-26cf4ca7b861" />
 </div>
 
 ## Usage
